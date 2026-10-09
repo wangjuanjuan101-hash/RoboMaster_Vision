@@ -13,6 +13,4 @@ source .venv/bin/activate
 python task1/armor_lightbar.py data/videos/1.webm
 
 
-## 3. 演示视频下载
-通过网盘分享的文件：final_video_30fps.mp4
-链接: https://pan.baidu.com/s/1HXKus8wrZMM3Jy_rX1IrWA?pwd=7cxj 提取码: 7cxj
+
